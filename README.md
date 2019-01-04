@@ -1,6 +1,5 @@
-# web-dev-bootcamp-outline
-
 # Web Development Bootcamp
+_Winter 2019_
 
 This 8-week course covers the fundamentals of web design and development and includes everything from the basic building blocks of HTML and CSS to advanced up-to-date techniques for building interactive user experiences for the web. Through a series of hands-on-projects, you’ll come away with completed animated banner ads, landing pages, single page and multi-page sites, built from scratch and with modern production methods.
 
