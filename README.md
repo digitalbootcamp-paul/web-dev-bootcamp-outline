@@ -86,7 +86,7 @@ evolution of the web browser
 * Scrolling effects
 
 ## Week Five
-## More CSS styling
+### More CSS styling
 * Shadow and gradient tricks
 * Clipping and masking
 * More CSS layout techniques
